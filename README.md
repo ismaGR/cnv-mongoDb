@@ -1,5 +1,5 @@
 # ODIN_CNV
-CNV fonctionality for ODIN portal.
+CNV functionality for ODIN project portal.
 
 The database will be implemented in Mongo DB (NoSQL) using Spring Boot Tool. 
 
